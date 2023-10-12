@@ -1,0 +1,9 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/germano/REPOS/DSPutils/output",
+            "binaryPath": "/home/germano/REPOS/DSPutils/output/main",
+            "binaryArgs": []
+        }
+    ]
+}
